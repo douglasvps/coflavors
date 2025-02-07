@@ -1,0 +1,9 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'exemplos_tg.blg'
+[79] biber:340> INFO - === sáb fev  1, 2025, 11:36:36
+[94] Biber.pm:419> INFO - Reading 'exemplos_tg.bcf'
+[152] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[163] bbl.pm:660> INFO - Writing 'exemplos_tg.bbl' with encoding 'UTF-8'
+[163] bbl.pm:763> INFO - Output to exemplos_tg.bbl
+[163] Biber.pm:131> WARN - The file 'exemplos_tg.bcf' does not contain any citations!
+[164] Biber.pm:133> INFO - WARNINGS: 1

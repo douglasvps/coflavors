@@ -1,0 +1,63 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{anyt/global//global/global}
+    \entry{bastos2024generalizedtorsionelementsinfinite}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=1620be453b48574bae372e1b5de852ee}{%
+           family={Bastos},
+           familyi={B\bibinitperiod},
+           given={Raimundo},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e4d42327e27542fe6bcffb514ce15342}{%
+           family={Mendonça},
+           familyi={M\bibinitperiod},
+           given={Luis},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{45d514190c08f2a27fefe3f8461c011c}
+      \strng{fullhash}{45d514190c08f2a27fefe3f8461c011c}
+      \strng{bibnamehash}{45d514190c08f2a27fefe3f8461c011c}
+      \strng{authorbibnamehash}{45d514190c08f2a27fefe3f8461c011c}
+      \strng{authornamehash}{45d514190c08f2a27fefe3f8461c011c}
+      \strng{authorfullhash}{45d514190c08f2a27fefe3f8461c011c}
+      \field{labelalpha}{BM24}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{math.GR}
+      \field{eprinttype}{arXiv}
+      \field{title}{Generalized torsion elements in infinite groups}
+      \field{year}{2024}
+      \verb{eprint}
+      \verb 2411.17918
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2411.17918
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2411.17918
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

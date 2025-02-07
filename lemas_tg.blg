@@ -1,0 +1,15 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'lemas_tg.blg'
+[79] biber:340> INFO - === sáb fev  1, 2025, 11:36:26
+[93] Biber.pm:419> INFO - Reading 'lemas_tg.bcf'
+[152] Biber.pm:979> INFO - Found 1 citekeys in bib section 0
+[164] Biber.pm:4419> INFO - Processing section 0
+[174] Biber.pm:4610> INFO - Looking for bibtex file '../bibliography.bib' for section 0
+[174] bibtex.pm:1713> INFO - LaTeX decoding ...
+[176] bibtex.pm:1519> INFO - Found BibTeX data source '../bibliography.bib'
+[228] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[228] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[228] Biber.pm:4239> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'en-US'
+[228] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[248] bbl.pm:660> INFO - Writing 'lemas_tg.bbl' with encoding 'UTF-8'
+[249] bbl.pm:763> INFO - Output to lemas_tg.bbl
